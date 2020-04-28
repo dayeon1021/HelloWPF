@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="안녕하세용" HorizontalAlignment="Left" Margin="231,100,0,0" VerticalAlignment="Top" Width="352" RenderTransformOrigin="0.5,0.5" Height="166">
+        <Button Content="안녕하세용" HorizontalAlignment="Left" Margin="231,100,0,0" VerticalAlignment="Top" Width="352" RenderTransformOrigin="0.5,0.5" Height="166" Background="#FFFFA4A4">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
